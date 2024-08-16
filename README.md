@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhuparnaroy
 - 👀 I’m interested in SQL
-- 🌱 I’m currently learning Power BI
+- 🌱 I have also learnt Power BI
 - 📫 How to reach me https://www.linkedin.com/in/madhuparna-roy-4740361b2
 
 
